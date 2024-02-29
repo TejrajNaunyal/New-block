@@ -15,6 +15,11 @@
         "selectedIcon": {
             "type": "string",
             "default": ""
+
+        },
+        "selectedColor":{
+            "type": "string",
+            "default": ""
         }
     },
     "textdomain": "icon-picker",
